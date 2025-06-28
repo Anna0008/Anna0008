@@ -4,6 +4,7 @@
 
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplupslus&logoColor=6296CC)
-
+![C++](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=cplusplus&logoColor=6296CC)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=htnl5&logoColor=6296CC)
+![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml&logoColor=6296CC)
 Follow me
