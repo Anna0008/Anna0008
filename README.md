@@ -2,6 +2,7 @@
 
 ## I'm a beginner web development
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 
 Follow me
