@@ -7,4 +7,13 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=cplusplus&logoColor=6296CC)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=htnl5&logoColor=6296CC)
 ![XML](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml&logoColor=6296CC)
-Follow me
+
+### Follow me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vinkness?igsh=NmJpOXJuNzhlaWRt&utm_source=qr)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/annachetverykova)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/anna-chetverykova-ba5834340/)
+
+
+
+
